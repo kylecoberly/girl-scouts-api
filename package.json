@@ -1,0 +1,14 @@
+{
+  "name": "girl-scouts-api",
+  "version": "1.0.0",
+  "description": "API for Girl Scout cookies app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kyle Coberly",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.11.2"
+  }
+}
